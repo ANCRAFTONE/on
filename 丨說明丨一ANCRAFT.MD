@@ -1,3 +1,10 @@
+# 發源
+第一步往往是遲疑的，可是一但開始就難以停下
+一旦踏入這個世界，探索的喜悅會浸染感知，想像與建造正在激發嘗試
+讓創意隨著品味昇華，未知讓人難忘 而創造促使進化
+
+
+
 # 管理工程
 
 ### 管理配置文件
@@ -53,7 +60,8 @@ custom-quit-message: "&#ED1E79丨&7離線&#ED1E79丨↣丨&f{PLAYER}&#ED1E79丨�
 需要展開文字可使用此詳細規格
 ```
 我在設計顯示效果 你看
-/summon block_display ~-0.5 ~-0.5 ~-0.5 {Passengers:[{id:"minecraft:text_display",text:[{"text":" 丨 警示區 丨 WARN 丨 ","color":"#FFFFFF","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"font":"minecraft:default"}],text_opacity:255,background:0,alignment:"center",line_width:210,default_background:false,transformation:[10f,0f,0f,0f,0f,10f,0f,0f,0f,0f,3f,0f,0f,0f,0f,1f],brightness:{sky:15,block:15}},{id:"minecraft:text_display",text:[{"text":" 丨 警示區 丨 WARN 丨 ","color":"#ff0000","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"font":"minecraft:default"}],text_opacity:255,background:0,alignment:"center",line_width:210,default_background:false,transformation:[10f,0f,0f,0f,0f,10f,0f,0f,0f,0f,3f,-0.1f,0f,0f,0f,1f],brightness:{sky:15,block:15}},{id:"minecraft:text_display",text:[{"text":" 丨 警示區 丨 WARN 丨 ","color":"#ed1e79","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"font":"minecraft:default"}],text_opacity:255,background:0,alignment:"center",line_width:210,default_background:false,transformation:[10f,0f,0f,0f,0f,10f,0f,0f,0f,0f,3f,-0.13125f,0f,0f,0f,1f],brightness:{sky:15,block:15}}]}```
+/summon block_display ~-0.5 ~-0.5 ~-0.5 {Passengers:[{id:"minecraft:text_display",text:[{"text":" 丨 警示區 丨 WARN 丨 ","color":"#FFFFFF","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"font":"minecraft:default"}],text_opacity:255,background:0,alignment:"center",line_width:210,default_background:false,transformation:[10f,0f,0f,0f,0f,10f,0f,0f,0f,0f,3f,0f,0f,0f,0f,1f],brightness:{sky:15,block:15}},{id:"minecraft:text_display",text:[{"text":" 丨 警示區 丨 WARN 丨 ","color":"#ff0000","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"font":"minecraft:default"}],text_opacity:255,background:0,alignment:"center",line_width:210,default_background:false,transformation:[10f,0f,0f,0f,0f,10f,0f,0f,0f,0f,3f,-0.1f,0f,0f,0f,1f],brightness:{sky:15,block:15}},{id:"minecraft:text_display",text:[{"text":" 丨 警示區 丨 WARN 丨 ","color":"#ed1e79","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"font":"minecraft:default"}],text_opacity:255,background:0,alignment:"center",line_width:210,default_background:false,transformation:[10f,0f,0f,0f,0f,10f,0f,0f,0f,0f,3f,-0.13125f,0f,0f,0f,1f],brightness:{sky:15,block:15}}]}
+```
 可以依照需要調整為品牌色顯編號
 
 
@@ -171,12 +179,12 @@ design by ancraft
 
 
 
-#引導文件
+# 引導文件
 參考自圓其說專案:ANDERSON131A/zi-yuan-qi-shuo
 以及編碼產生器:A🥮丨代碼編輯器.json
  
 
-#原創系統 
+# 原創系統 
 協助引領引導指引到一個專業流程(狀態流)
 玩家端冷啟動流程
 流程階段狀態機
